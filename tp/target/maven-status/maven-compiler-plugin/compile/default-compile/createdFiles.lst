@@ -1,0 +1,7 @@
+com\spring\model\Category.class
+com\spring\mvc\BookController.class
+com\spring\services\BookServices.class
+com\spring\services\BookServicesImpl.class
+com\spring\model\Book.class
+com\spring\dao\BookDao.class
+com\spring\dao\BookDaoImpl.class
